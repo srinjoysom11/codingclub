@@ -1,1 +1,1 @@
- 'Hi i am srinjoy from ece roll no 220102097.I a from west bengal.' 
+ 'Hi i am srinjoy from ece roll no 220102097.I a from west bengal.From this experience i will learn howo collaborate with other developers to make a project help others in doing something an dget help from other coder in my own project' 
